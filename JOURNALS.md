@@ -26,6 +26,8 @@ Next, I'm planning to create the schematic for the custom boards!
 
 ### Total Time Spent: 6.5 hours
 
+
+​
 # June 26, 2026
 ## Creating the schematic
 This is my favorite part of the project: creating the schematic for the to-be build!
@@ -64,7 +66,43 @@ That'll help later!
 too. many. wires. 🏳️
 
 P.S. I added transistors to automate the flashing process, so I could flash code without having to press a button!
+Also, I added labels to each of the resistors and caps. 
 
 <img width="244" height="223" alt="Screenshot 2026-06-28 at 4 14 14 PM" src="https://github.com/user-attachments/assets/78e4c56a-c12b-4248-8771-96f92c89dd3f" />
 
+### Total Time Spent: 4 hours
+
+​
+
+# June 27, 2026
+## Creating the PCB (for the cones only, didn't route anything yet)
+Not much to say here, but I've finished the PCB!
+
+To start, I rearranged all of the components, so they all were compact, and could fit nicely in small cones. This was pretty difficult, as I had to keep everything laid correctly, and everything also needed to be (and look) polished! 
+
+Moreover, I was planning to add a capacitor right next to the VOUT of the CH340C, as it would prevent electrical noise and keep the data sent from the USBC VBUS the way it was. This was really important, and so I built my PCB around it once I put the capacitor in the correct spot! (Check the second image in the images section)
+
+To finish the PCB off, I added some silkscreen decoration on the corners (they were empty) and added mounting holes!
+
+In all, I feel that this step of the build wasn't too difficult, though it was slightly hard to arrange all of the parts correctly and neatly! Anyways, here are the images for the journal:
+
+**The Full (Unrouted) PCB**
+
+<img width="456" height="403" alt="Screenshot 2026-06-28 at 4 37 48 PM" src="https://github.com/user-attachments/assets/fb6dcb2c-2a21-4416-b958-de7af7ee49f9" />
+
+time to route... 🫡🥲
+
+**The Capacitor**
+
+<img width="288" height="107" alt="Screenshot 2026-06-28 at 4 38 21 PM" src="https://github.com/user-attachments/assets/b0c9c215-b0e0-4925-803c-610ab32fd6cc" />
+
+It's more important than it seems 😈
+
+**The PCB In 3D**
+
+<img width="951" height="638" alt="Screenshot 2026-06-28 at 4 34 43 PM" src="https://github.com/user-attachments/assets/c341c097-b693-4dd6-939e-758f17440d27" />
+
+we have expanded into the THIRD dimension!
+
+### Total Time Spent: 3.5 hours
 
