@@ -2,7 +2,7 @@
 
 Hey!
 
-Check out my JOURNALS.MD (here)[https://github.com/AAPythonCode/TBP/blob/main/JOURNALS.md]
+Check out my JOURNALS.MD [here](https://github.com/AAPythonCode/TBP/blob/main/JOURNALS.md)
 
 It's summer break, and I want to create something cool! Since I play tennis on a daily basis, I thought of creating something related to it. Therefore, I thought of creating a tennis ball picker that could collect tennis balls for the user, without collecting other players'.
 
