@@ -10,3 +10,6 @@ I brainstormed many ideas, but in the end I thought of using cones on each of th
 <img width="716" height="1004" alt="image" src="https://github.com/user-attachments/assets/3ddf9586-d587-48ed-82f2-d75bfe6c964c" />
 
 The white dots are the cones, the arrows are the UWB signals, and the blue rectangle is the bot.
+
+## The Schematic
+<img width="1602" height="1104" alt="image" src="https://github.com/user-attachments/assets/c4bb2e26-4b95-4d66-b6ee-2cc1f76aa3eb" />
