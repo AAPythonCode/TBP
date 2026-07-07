@@ -29,7 +29,7 @@ Next, I'm planning to create the schematic for the custom boards!
 
 ​
 # June 26, 2026
-## Creating the schematic
+## Creating the Schematic
 This is my favorite part of the project: creating the schematic for the to-be build!
 
 I started by improting all of the parts into the schematic! Luckily, the DWM1000 was already a present part, and I didn't need to find a matching symbol+footprint+3D model online! That was close!
@@ -106,3 +106,23 @@ we have expanded into the THIRD dimension!
 
 ### Total Time Spent: 3.5 hours
 
+# June 4, 5, and 6
+## Created + Routed The Second PCB
+You may be wondering about the HUGE gap between this journal entry and the last! After all, a WEEK has passed? Well, the reason depends heavily on the fact that my family and I were preparing to leave from India back to the US (as I was visiting my grandparents), and it took a week to pack everything back into suitcases + clear the house of our belongings + leave on the plane. 
+
+Anyways, back in the US, I've created the second PCB and routed it. This took a long time, as even though I was able to copy + paste several areas of the Cone PCB (such as its DWM1000 and its ESP32-WROOM-32 modules) I still had to alter its schematic A LOT! I had to specifically add 2 TB6612FNG modules to the bot's schematic, which then required me to wire IO pins, the 12v power supply, and the motors themselves. The TB6612FNG was deliberately chosen due to the fact that it could power two motors at once, and used 12v to run both motors. To attach the motor terminals, I chose two screw blocks, as they were great for prototyping and easy to find on LCSC.
+
+After all of this, I routed the (bot's) PCB. Though it is extremely easy to route PCBs, this one was a clear exception! Since so many of the modules were compacted together, vias became my life and savior, easing most of the difficulty off my shoulders. However, routing the PCB was still excpetionally difficult, and I definitely had to spend more than 4 hours! You'll see what I mean in the third image in the images section!
+## Routed the Cone's PCB
+FINALLY! It's done!! The cone's PCB has been routed!!!
+
+Just like the bot's PCB, this PCB, as it followed many of the same characteristics as the bot's, was exceptionally hard to route! As you may know, most of the modules were cramped together to fit the size of the cones. Therefore, they were extremely hard to route, and I had to change the positioning of most of the modules (very slightly) to fit all of the wires. I'm thankful it's done, however, as I'm going to be able to begin on my CADding!
+## Switched Out the 24-pin USB VBUS For the Simplified 16-pin Version (For Both PCBs)
+This may not seem like a big deal, but for the popular HRO_TYPE-C-31-M-12 to be compatible with my PCBs, they had to be switched out with the 16 pin symbol in KiCad. This then meant I had to REROUTE the ENTIRE USB-C port on the front of the PCB, which took AGES due to the fact that everything was already stuck in place. I had to then move most of the components to route the thing succesfully! It was like trying to repaint a picture, but without the ability to paint over the original art!
+## Added a Battery Cell To Both PCBs
+Oh yeah. HOW DID I FORGE-
+
+Seems like I forgot to add the battery cell to the PCBs, which would have then required me to find a power bank that used USB-C to power the PCBs. However, I remebered just in time, and was able to add it into the final PCB! It was an easy fix, however, and there were no major difficulties in installing it into the final PCB!
+
+And now, here's the images for the journal:
+**The Routed Cone PCB**
