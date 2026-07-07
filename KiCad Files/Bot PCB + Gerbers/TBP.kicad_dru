@@ -1,0 +1,4 @@
+(version 1)
+(rule J1_pads
+   (condition "A.Reference == 'J1' && B.Reference == 'J1'")
+   (constraint clearance (min 0.127mm)))
