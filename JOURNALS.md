@@ -125,4 +125,35 @@ Oh yeah. HOW DID I FORGE-
 Seems like I forgot to add the battery cell to the PCBs, which would have then required me to find a power bank that used USB-C to power the PCBs. However, I remebered just in time, and was able to add it into the final PCB! It was an easy fix, however, and there were no major difficulties in installing it into the final PCB!
 
 And now, here's the images for the journal:
+
 **The Routed Cone PCB**
+
+<img width="970" height="653" alt="Screenshot 2026-07-07 at 12 22 31 PM" src="https://github.com/user-attachments/assets/60b788cf-82fe-4fa7-8a2b-bedf54d2d0fb" />
+
+Proud of you, son. 🥹
+
+**The Routed Bot PCB**
+
+<img width="938" height="621" alt="Screenshot 2026-07-07 at 12 19 02 PM" src="https://github.com/user-attachments/assets/b085c403-feec-4c4e-a2fc-6a959030cef0" />
+
+Even more proud of you, son. 🥹
+
+**The Third Image In The Images Section**
+
+<img width="370" height="651" alt="Screenshot 2026-07-07 at 12 20 48 PM" src="https://github.com/user-attachments/assets/91e8ece4-ce0e-49a7-9ced-d78e3337c4c5" />
+
+This. Took. Too. LONG!!!!
+
+**The New VBUS**
+
+<img width="424" height="490" alt="Screenshot 2026-07-07 at 12 23 41 PM" src="https://github.com/user-attachments/assets/e1a16ffd-1f7e-4645-886f-d0e5ff4e8793" />
+
+Small change, big impact!!!
+
+**The Battery Cell**
+
+<img width="138" height="176" alt="Screenshot 2026-07-07 at 12 24 23 PM" src="https://github.com/user-attachments/assets/41d716e2-2593-4b82-b469-eef1f5d524fa" />
+
+I would have crashed out if I missed this!
+
+### Total Time Spent: 20 hours
