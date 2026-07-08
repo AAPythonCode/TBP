@@ -58,9 +58,9 @@ Now for some images! Take it all in... :)
 <img width="163" height="149" alt="image" src="https://github.com/user-attachments/assets/07925b15-eda8-4132-8d01-e52749eed335" />
 
 ## The Full PCB
-<img width="912" height="806" alt="image" src="https://github.com/user-attachments/assets/e94c6be9-e666-4af1-bfdc-53490d2dfaea" />
+<img width="780" height="525" alt="Screenshot 2026-07-08 at 1 22 33 PM" src="https://github.com/user-attachments/assets/45e86d21-c604-4788-8ba2-a1fe44a6051e" />
 
 ## The PCB in 3D
-<img width="634" height="425.333333333333333333333333333333333333333333333333333" alt="image" src="https://github.com/user-attachments/assets/d63b314e-e787-49ff-aa76-86967801fe52" />
+<img width="587" height="341" alt="Screenshot 2026-07-08 at 1 22 50 PM" src="https://github.com/user-attachments/assets/10adc530-dd62-4937-ad81-843e14ef2cb9" />
 
 
