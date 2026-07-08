@@ -14,22 +14,23 @@ Here's a drawing I made (painfully, my hand was shaking lol, did this on a phone
 <img width="239" height="335" alt="image" src="https://github.com/user-attachments/assets/3ddf9586-d587-48ed-82f2-d75bfe6c964c" />
 
 # Bill Of Materials
-## BOM For LCSC Parts:
-| Index | LCSC#     | MPN                | Manufacturer              | Package              | Customer # | Description                                                                              | RoHS | Quantity | MOQ | Multiple | Unit Price($) | Extended Price($) | Product Link                                       |
-|-------|-----------|--------------------|---------------------------|----------------------|------------|------------------------------------------------------------------------------------------|------|----------|-----|----------|---------------|-------------------|----------------------------------------------------|
-| 1     | C5241969  | DW1000-I-TR13      | Qorvo                     | QFN-48(6x6)          |            | 6.8Mbps -107dBm 3.244GHz~6.999GHz 2.8V~3.6V QFN-48(6x6) RF Transceiver ICs RoHS          | yes  | 5        | 1   | 1        | 7.1224        | 35.61             | https://www.lcsc.com/product-detail/C5241969.html  |
-| 2     | C2907044  | FRC0603F5101TS     | FOJAN                     | 0603                 |            | 5.1kΩ ±1% 100mW 0603 Thick Film Resistor                                                 | yes  | 100      | 100 | 100      | 0.0028        | 0.28              | https://www.lcsc.com/product-detail/C2907044.html  |
-| 3     | C717453   | S8050              | LGE                       | TO-92                |            | Bipolar (BJT) Transistor NPN 25V 500mA 150MHz 625mW Through Hole TO-92                   | yes  | 20       | 20  | 20       | 0.0273        | 0.55              | https://www.lcsc.com/product-detail/C717453.html   |
-| 4     | C19273151 | YLED0603G          | YONGYUTAI                 | 0603                 |            | Emerald Green LED Indication - Discrete 2.7V~3.2V 0603                                   | yes  | 100      | 100 | 100      | 0.0059        | 0.59              | https://www.lcsc.com/product-detail/C19273151.html |
-| 5     | C141517   | TB6612FNG,C,8,EL   | TOSHIBA                   | SSOP-24              |            | SSOP-24 Motor Drivers, Controllers RoHS                                                  | yes  | 1        | 1   | 1        | 1.1283        | 1.13              | https://www.lcsc.com/product-detail/C141517.html   |
-| 6     | C695629   | DB301V-3.5-2P-GN-S | DORABO                    | Through Hole,P=3.5mm |            | 2 Position Wire to Board Terminal Block Through Hole 3.5mm                               | yes  | 5        | 5   | 5        | 0.0842        | 0.42              | https://www.lcsc.com/product-detail/C695629.html   |
-| 7     | C91606    | GRM188R61E106MA73D | muRata                    | 0603                 |            | 10uF ±20% 25V Ceramic Capacitor X5R 0603                                                 | yes  | 5        | 5   | 5        | 0.1326        | 0.66              | https://www.lcsc.com/product-detail/C91606.html    |
-| 8     | C2762594  | CL10A226MO7JZNC    | Samsung Electro-Mechanics | 0603                 |            | 22uF ±20% 16V Ceramic Capacitor X5R 0603                                                 | yes  | 5        | 5   | 5        | 0.1892        | 0.95              | https://www.lcsc.com/product-detail/C2762594.html  |
-| 9     | C207830   | SLO0420H4R7MTT     | Sunltech                  | SMD,4.2x4.2mm        |            | 2.2A 4.7uH ±20% 3A 84mΩ Molded Inductor SMD,4.2x4.2mm Fixed Inductors RoHS               | yes  | 5        | 5   | 5        | 0.1370        | 0.69              | https://www.lcsc.com/product-detail/C207830.html   |
-| 10    | C1590     | CL10B104KA8NNNC    | Samsung Electro-Mechanics | 0603                 |            | 100nF ±10% 25V Ceramic Capacitor X7R 0603                                                | yes  | 50       | 50  | 50       | 0.0135        | 0.68              | https://www.lcsc.com/product-detail/C1590.html     |
-| 11    | C98220    | RC0603FR-0710KL    | YAGEO                     | 0603                 |            | 100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS | yes  | 100      | 100 | 100      | 0.0051        | 0.51              | https://www.lcsc.com/product-detail/C98220.html    |
-| 12    | C328062   | ESP32-WROOM-32U-N4 | ESPRESSIF                 | SMD,19.2x18mm        |            | 2.4GHz ESP32-DOWD -97dBm SMD,19.2x18mm RF Transceiver Modules and Modems RoHS            | yes  | 5        | 1   | 1        | 4.0964        | 20.48             | https://www.lcsc.com/product-detail/C328062.html   |
+# Bill of Materials (BOM)
 
+### LCSC BOM:
+| # | LCSC Part # | MPN | Manufacturer | Package | Quantity | Description |
+|---:|-------------|-----|--------------|---------|---------:|-------------|
+| 1 | C5241969 | DW1000-I-TR13 | Qorvo | QFN-48 (6×6 mm) | 5 | RF Transceiver IC, 3.244–6.999 GHz, 6.8 Mbps, −107 dBm, 2.8–3.6 V |
+| 2 | C2907044 | FRC0603F5101TS | FOJAN | 0603 | 100 | 5.1 kΩ ±1%, 100 mW Thick Film Resistor |
+| 3 | C717453 | S8050 | LGE | TO-92 | 20 | NPN BJT Transistor, 25 V, 500 mA, 150 MHz |
+| 4 | C19273151 | YLED0603G | YONGYUTAI | 0603 | 100 | Emerald Green Indicator LED, 2.7–3.2 V |
+| 5 | C141517 | TB6612FNG,C,8,EL | Toshiba | SSOP-24 | 1 | Dual H-Bridge Motor Driver |
+| 6 | C695629 | DB301V-3.5-2P-GN-S | DORABO | Through Hole, 3.5 mm Pitch | 5 | 2-Position Wire-to-Board Terminal Block |
+| 7 | C91606 | GRM188R61E106MA73D | Murata | 0603 | 5 | 10 µF ±20%, 25 V X5R Ceramic Capacitor |
+| 8 | C2762594 | CL10A226MO7JZNC | Samsung Electro-Mechanics | 0603 | 5 | 22 µF ±20%, 16 V X5R Ceramic Capacitor |
+| 9 | C207830 | SLO0420H4R7MTT | Sunltech | 4.2 × 4.2 mm SMD | 5 | 4.7 µH Molded Inductor, 2.2 A, 84 mΩ |
+| 10 | C1590 | CL10B104KA8NNNC | Samsung Electro-Mechanics | 0603 | 50 | 100 nF ±10%, 25 V X7R Ceramic Capacitor |
+| 11 | C98220 | RC0603FR-0710KL | YAGEO | 0603 | 100 | 10 kΩ ±1%, 100 mW Thick Film Resistor |
+| 12 | C328062 | ESP32-WROOM-32U-N4 | Espressif | SMD, 19.2 × 18 mm | 5 | ESP32-WROOM-32U Wi-Fi/Bluetooth Module (External Antenna) |
 
 ## BOM For Everything Else:
 | Product | Price | Manufacturer | Quantity | Link |
