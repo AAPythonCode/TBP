@@ -69,3 +69,10 @@ Now for some images! Take it all in... :)
 ## The Cone PCB in 3D
 <img width="550" height="406" alt="Screenshot 2026-07-08 at 1 28 04 PM" src="https://github.com/user-attachments/assets/5244d8ca-7d28-4caa-af42-a493a9c9464d" />
 
+## The Fully Assembled Bot
+<img width="649" height="484" alt="Screenshot 2026-07-08 at 1 30 25 PM" src="https://github.com/user-attachments/assets/d6287272-8a0f-4e0a-8de7-0e1ece439d7f" />
+
+## The Fully Assembled Cone
+<img width="255" height="312" alt="Screenshot 2026-07-08 at 1 31 08 PM" src="https://github.com/user-attachments/assets/78c6c070-2ea9-4482-8aad-b5211d9d2f37" />
+
+
