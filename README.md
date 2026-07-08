@@ -57,10 +57,15 @@ Now for some images! Take it all in... :)
 ## Transistors
 <img width="163" height="149" alt="image" src="https://github.com/user-attachments/assets/07925b15-eda8-4132-8d01-e52749eed335" />
 
-## The Full PCB
+## The Full Bot PCB
 <img width="780" height="525" alt="Screenshot 2026-07-08 at 1 22 33 PM" src="https://github.com/user-attachments/assets/45e86d21-c604-4788-8ba2-a1fe44a6051e" />
 
-## The PCB in 3D
+## The Bot PCB in 3D
 <img width="587" height="341" alt="Screenshot 2026-07-08 at 1 22 50 PM" src="https://github.com/user-attachments/assets/10adc530-dd62-4937-ad81-843e14ef2cb9" />
 
+## The Full Cone PCB
+<img width="942" height="640" alt="Screenshot 2026-07-08 at 1 27 51 PM" src="https://github.com/user-attachments/assets/9cb4b9d0-233c-4800-9bcb-6eb157ca194a" />
+
+## The Cone PCB in 3D
+<img width="550" height="406" alt="Screenshot 2026-07-08 at 1 28 04 PM" src="https://github.com/user-attachments/assets/5244d8ca-7d28-4caa-af42-a493a9c9464d" />
 
