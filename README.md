@@ -13,7 +13,6 @@ Here's a drawing I made (painfully, my hand was shaking lol, did this on a phone
 
 <img width="239" height="335" alt="image" src="https://github.com/user-attachments/assets/3ddf9586-d587-48ed-82f2-d75bfe6c964c" />
 
-# Bill Of Materials
 # Bill of Materials (BOM)
 
 ### LCSC BOM:
