@@ -40,7 +40,7 @@ Caster Wheel (1 inch) | $6.89 | Amazon | 1 | [Link](https://www.amazon.com/Suiwo
 Wheels | $8.99 | AliExpress | 1 | [Link](https://www.amazon.com/gp/product/B0C6JQ3SDV/ref=ox_sc_act_title_2?smid=A22NPL1KB8AOV0&psc=1)
 Motors | $4.34 | Amazon | 4 | [Link](https://www.amazon.com/gp/product/B0GXY1Y1XM/ref=ox_sc_act_title_2?smid=A3PMRUDTUKMNJ1&psc=1&s=bazaar)
 DWM1000 | $0.80 | Alibaba | 5 | [Link](https://www.alibaba.com/product-detail/Electronic-components-integrated-circuits-semiconductor-New_1601393696798.html?spm=a2756.trade-order-standard.0.0.e08265aaEoXY4F)
-### GRAND TOTAL: $375.58
+### GRAND TOTAL: $349.28
 
 # Images
 
